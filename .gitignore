@@ -1,0 +1,8 @@
+**/.ipynb_checkpoints/**
+**/.DS_Store
+**/.idea
+**/__init__.py
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
+**/*.log
